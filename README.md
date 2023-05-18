@@ -36,3 +36,24 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+ISR - incremental static regeneration
+SSR - Server side rendering
+SWR - stale while revalidate -  react hook library for data fetching
+
+Styling ways
+----------
+Global - we need to import css file within pages/_app.js
+component level - next.js support css in filename.module.css naming convention
+Sass Support - install sass package
+Css-in-js Solution - inline style and styled component
+
+<!-- Typescript support -->
+<!-- https://www.youtube.com/watch?v=2SLLvO9OK10&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH&index=61 -->
+
+<!-- Preview mode   -->
+<!-- https://www.youtube.com/watch?v=BYvH0G02uuI&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH&index=62 -->
+
+// 307 temparary redirection
+// 308 permenent redirection

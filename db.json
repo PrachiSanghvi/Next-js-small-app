@@ -1,0 +1,82 @@
+{
+  "dashboard":{
+    "posts":5,
+    "likes":150,
+    "follower":50,
+    "following":80
+  },
+  "events":[
+    {
+      "id":1,
+      "title":"Event 1",
+      "description" : "Sports Event 1",
+      "category": "sports",
+      "date": "20 Feb"
+    },
+    {
+      "id":2,
+      "title":"Event 2",
+      "description" : "Cooking Event 2",
+      "category": "Cooking",
+      "date": "21 Feb"
+    },{
+      "id":3,
+      "title":"Event 3",
+      "description" : "Craft Event 3",
+      "category": "Craft",
+      "date": "22 Feb"
+    },{
+      "id":4,
+      "title":"Event 4",
+      "description" : "Ancharing Event 4",
+      "category": "Ancharing",
+      "date": "24 Feb"
+    },{
+      "id":5,
+      "title":"Event 5",
+      "description" : "Dancing Event 5",
+      "category": "Dancing",
+      "date": "25 Feb"
+    }
+  ],
+  "news":[
+    {
+      "id": 1,
+      "title": "Latest News 1",
+      "price": 1000,
+      "category": "sports"
+    },
+    {
+      "id": 2,
+      "title": "News 2",
+      "price": 2000,
+      "category": "politics"
+    },
+    {
+      "id": 3,
+      "title": "News 3",
+      "price": 3000,
+      "category": "sports"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Product 1",
+      "price": 1000,
+      "description": "description 1"
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "price": 2000,
+      "description": "description 1"
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "price": 3000,
+      "description": "description 3"
+    }
+  ]
+}
